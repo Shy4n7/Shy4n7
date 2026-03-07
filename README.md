@@ -1,3 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shy4n7&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shy4n7&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shy4n7&show_icons=true&theme=tokyonight&cache_seconds=1800)
