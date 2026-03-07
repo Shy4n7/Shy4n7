@@ -6,7 +6,6 @@
 
 
 
-
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
