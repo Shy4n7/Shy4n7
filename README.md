@@ -1,117 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>GitHub Profile \u2014 Shy4n7</title>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Syne:wght@600;800&display=swap" rel="stylesheet"/>
-<style>
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+�
+Load image
+AI/ML · Computer Systems · Astrophysics
+Curious about both code and the cosmos.
+About
+I work at the intersection of machine learning and systems programming, with a particular interest in applying deep learning to scientific domains — astrophysics especially. Most of my projects combine rigorous ML methodology with production-grade engineering.
+Based in Tamil Nadu, India
+Interests: deep learning, computer vision, cloud infrastructure, native app development
+Currently exploring: explainable AI, ensemble methods, electron-based tooling
+Projects
+Repo
+Description
+Stack
+GalaxyMorphologyClassifier
+Weighted CNN ensemble for galaxy morphology — 95.4% accuracy, Grad-CAM, real-time React dashboard
+PyTorch · FastAPI · React · Docker
+CloudSight
+Desktop multi-cloud monitoring dashboard (AWS / Azure / GCP) with alerting and OS keychain auth
+Electron · React 19 · SQLite · Vite
+ML-Based-Resume-Evaluator
+Automated resume scoring pipeline using NLP and ML
+Python · scikit-learn
+VirtualKeyboardApp
+Computer vision virtual keyboard via hand tracking
+Python · OpenCV · MediaPipe
+CalQuest
+Calendar-based quest and productivity app
+JavaScript
+SpaceFlyGame
+Space arcade game
+Python
+Stack
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+GitHub Stats
+�
+￼ ￼ 
 
-:root {
-  --bg: #080b10;
-  --surface: #0e1219;
-  --surface2: #131822;
-  --border: #1c2333;
-  --accent: #e8c96d;
-  --dim: #4a5568;
-  --text: #b0bcd4;
-  --white: #e8edf8;
-  --mono: 'IBM Plex Mono', monospace;
-}
 
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--mono);
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem 1rem 4rem;
-  gap: 1.2rem;
-}
+�
+￼ 
 
-.page-label {
-  font-size: 0.62rem;
-  letter-spacing: 0.22em;
-  color: var(--dim);
-  text-transform: uppercase;
-  border: 1px solid var(--border);
-  padding: 0.35rem 1rem;
-  border-radius: 999px;
-}
 
-.card {
-  width: 100%;
-  max-width: 720px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  overflow: hidden;
-}
-
-/* HEADER */
-.header {
-  padding: 2.2rem 2.4rem 1.8rem;
-  border-bottom: 1px solid var(--border);
-  background: linear-gradient(160deg, #0e1522 0%, #0a0f18 100%);
-  position: relative;
-  overflow: hidden;
-}
-
-.header::after {
-  content: '';
-  position: absolute;
-  top: -80px; right: -80px;
-  width: 260px; height: 260px;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(232,201,109,0.05) 0%, transparent 65%);
-  pointer-events: none;
-}
-
-.h-name {
-  font-family: 'Syne', sans-serif;
-  font-size: 1.9rem;
-  font-weight: 800;
-  color: var(--white);
-  letter-spacing: -0.01em;
-  line-height: 1;
-  margin-bottom: 0.5rem;
-}
-
-.h-handle {
-  font-size: 0.72rem;
-  color: var(--accent);
-  letter-spacing: 0.06em;
-  margin-bottom: 1rem;
-}
-
-.h-bio {
-  font-size: 0.76rem;
-  color: var(--text);
-  line-height: 1.7;
-  max-width: 480px;
-  margin-bottom: 1.2rem;
-  border-left: 2px solid var(--border);
-  padding-left: 0.9rem;
-}
-
-.h-tags {
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-}
-
-.h-tag {
-  font-size: 0.62rem;
-  padding: 0.22rem 0.65rem;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  color: var(--dim);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
+�
+�
+Load image
+�}
 
 /* BODY */
 .body {
