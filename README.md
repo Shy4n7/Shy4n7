@@ -1,5 +1,5 @@
 ```
-AI / ML   ·   Computer Systems   ·   Astrophysics
+AI / ML   ·   Astrophysics   ·   Quantam Computing
 ```
 
 <div align="center">
@@ -22,7 +22,6 @@ AI / ML   ·   Computer Systems   ·   Astrophysics
 ![Electron](https://img.shields.io/badge/Electron-47848f?style=flat-square&logo=electron&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00b96b?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -30,12 +29,3 @@ AI / ML   ·   Computer Systems   ·   Astrophysics
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shy4n7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shy4n7&layout=compact&theme=github_dark&hide_border=true" height="155"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shy4n7&theme=github-dark-blue&hide_border=true"/>
-</div>
