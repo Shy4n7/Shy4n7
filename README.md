@@ -4,7 +4,7 @@ AI / ML   ·   Quantum Computing   ·   Astrophysics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shyan_Paul-white?style=flat-square&logo=linkedin&logoColor=0a66c2&labelColor=0a66c2)](https://www.linkedin.com/in/shyan-paul-2299a936b/) [![Gmail](https://img.shields.io/badge/Gmail-shyanpaul7@gmail.com-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=EA4335)](mailto:shyanpaul7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Shyan_Paul-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyan-paul-2299a936b/) [![Gmail](https://img.shields.io/badge/shyanpaul7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shyanpaul7@gmail.com)
 
 </div>
 
