@@ -57,15 +57,6 @@ AI / ML   ·   Quantum Computing   ·   Astrophysics
 
 ---
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-
----
-
 **Astrophysics & Quantum**
 
 ![Astropy](https://img.shields.io/badge/Astropy-003B6F?style=flat-square&logo=astropy&logoColor=white)
