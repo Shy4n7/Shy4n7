@@ -1,68 +1,51 @@
+# Shyan Paul
+
+**AI/ML Engineer** · Uncertainty Quantification · Computer Vision · Astrophysics Applications
+
+> Building ML systems that know what they don't know.
+
+---
+
+## Featured Work
+
+**[QViT-Exo](https://github.com/Shy4n7/QViT-Exo)** — *Published on Zenodo*
+Quantum-enhanced Vision Transformer for exoplanet transit classification. Combines QONN attention mechanisms with conformal prediction for uncertainty-aware inference on NASA light curves.
+→ [Read the paper](https://orcid.org/0009-0004-7465-0871)
+
+**[GalaxyMorphologyClassifier](https://github.com/Shy4n7/GalaxyMorphologyClassifier)**
+PyTorch ensemble (ConvNeXt + ResNeXt + DenseNet) achieving **87.97% accuracy** on Galaxy10 DECaLS. Full-stack deployment: FastAPI backend, React dashboard, Docker, Grad-CAM explainability.
+
+**[KnownUnknowns](https://github.com/Shy4n7/KnownUnknowns)**
+Production ML system with conformal prediction for uncertainty-aware house price estimation. CI/CD pipeline with automated testing.
+
+---
+
+## Open Source
+
+Contributed to **[pytorch/examples](https://github.com/pytorch/examples)** — PR merged, preserving explicit ImageNet resume learning rate behavior.
+
+---
+
+## Stack
+
 ```
-AI / ML   ·   Quantum Computing   ·   Astrophysics
+ML/DL        PyTorch · scikit-learn · TensorFlow · HuggingFace · PennyLane · Qiskit
+Vision       OpenCV · MediaPipe · Grad-CAM
+Backend      FastAPI · Flask · MongoDB · SQLite
+Infra        Docker · CI/CD · Git
+Astrophysics Astropy · SciPy · NASA datasets
 ```
 
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyan-paul-2299a936b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyanpaul7@gmail.com)
-</div>
+## Background
+
+B.Sc. Artificial Intelligence & Machine Learning — Rathinam College, Coimbatore (2027)
+IBM Certified: Quantum ML · ML with Python · Python for Data Science
+Hands-on IBM Quantum hardware via Qiskit and PennyLane
 
 ---
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-**Machine Learning & DL**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-
----
-
-**Data & Visualisation**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-
----
-
-**Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
-
----
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-00b96b?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-**Astrophysics & Quantum**
-
-![Astropy](https://img.shields.io/badge/Astropy-003B6F?style=flat-square&logo=astropy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-00b4d8?style=flat-square&logoColor=white)
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyan-paul-2299a936b)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7465-0871)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@gmail.com)
