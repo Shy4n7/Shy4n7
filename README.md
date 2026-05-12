@@ -8,9 +8,8 @@
 
 ## Featured Work
 
-**[QViT-Exo](https://github.com/Shy4n7/QViT-Exo)** — *Published on Zenodo*
+**[QViT-Exo](https://github.com/Shy4n7/QViT-Exo)** — *Published Research*
 Quantum-enhanced Vision Transformer for exoplanet transit classification. Combines QONN attention mechanisms with conformal prediction for uncertainty-aware inference on NASA light curves.
-→ [Read the paper](https://orcid.org/0009-0004-7465-0871)
 
 **[GalaxyMorphologyClassifier](https://github.com/Shy4n7/GalaxyMorphologyClassifier)**
 PyTorch ensemble (ConvNeXt + ResNeXt + DenseNet) achieving **87.97% accuracy** on Galaxy10 DECaLS. Full-stack deployment: FastAPI backend, React dashboard, Docker, Grad-CAM explainability.
