@@ -8,7 +8,7 @@
 
 ## Featured Work
 
-**[QViT-Exo](https://github.com/Shy4n7/QViT-Exo)** — *Published Research*
+**[QViT-Exo](https://github.com/Shy4n7/QViT-Exo)** — *Research ongoing on*
 Quantum-enhanced Vision Transformer for exoplanet transit classification. Combines QONN attention mechanisms with conformal prediction for uncertainty-aware inference on NASA light curves.
 
 **[GalaxyMorphologyClassifier](https://github.com/Shy4n7/GalaxyMorphologyClassifier)**
