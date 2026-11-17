@@ -10,7 +10,6 @@
 
 **AI/ML Engineer in the making. I build machine learning systems that work in production and know their limits.**
 
-Bengaluru-bound. Currently an ML Intern at AdroIT Technologies, Coimbatore.
 
 ---
 
