@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner.svg" alt="Shyan Paul, AI/ML Engineer" width="100%"/>
   <br/>
-  <img src="assets/typing.svg" alt="Uncertainty quantification, vision transformers, RAG systems, quantum machine learning"/>
+  <img src="assets/typing-v2.svg" alt="Uncertainty quantification, vision transformers, RAG systems, quantum machine learning"/>
   <br/><br/>
   <a href="https://linkedin.com/in/shyanpaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://orcid.org/0009-0004-7465-0871"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
