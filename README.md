@@ -1,4 +1,11 @@
-# Shyan Paul
+<div align="center">
+  <img src="assets/banner.svg" alt="Shyan Paul, AI/ML Engineer" width="100%"/>
+  <br/>
+  <img src="assets/typing.svg" alt="Uncertainty quantification, vision transformers, RAG systems, quantum machine learning"/>
+  <br/><br/>
+  <a href="https://linkedin.com/in/shyanpaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0004-7465-0871"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <img src="https://img.shields.io/badge/Qiskit-Advocate-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit Advocate"/></div>
 
 **AI/ML Engineer in the making. I build machine learning systems that work in production and know their limits.**
 
@@ -43,7 +50,3 @@ IBM Certified in Quantum Machine Learning, Machine Learning with Python, and Pyt
 
 ML and AI engineering internships and roles at product companies in Bengaluru, especially work involving LLM applications, RAG, or computer vision.
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyanpaul)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-7465-0871)
